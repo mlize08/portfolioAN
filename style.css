@@ -1,6 +1,7 @@
 body{
     font-family: sans-serif;
     color: gray;
+    padding: 5px;
 }
 
 header{
@@ -22,3 +23,17 @@ div{
   margin: 10px;
 }
 
+main{
+  margin-top: 10px;
+  
+}
+
+section{
+  display: flex;
+  justify-content: center;
+}
+
+img{
+
+  width: 200px;
+}
